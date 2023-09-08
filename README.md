@@ -1,1 +1,1 @@
-# refresh_repo. This part is edited manually!This file was modified locally.
+this part was modified manually during conflicts resolution.
